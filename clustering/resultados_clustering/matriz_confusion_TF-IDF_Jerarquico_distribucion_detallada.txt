@@ -1,0 +1,10 @@
+Categoría 'comp.sys.ibm.pc.hardware':
+  Cluster 0: 66 documentos (53.2%)
+  Cluster 5: 24 documentos (19.4%)
+  Cluster 6: 18 documentos (14.5%)
+
+Categoría 'talk.politics.guns':
+  Cluster 0: 79 documentos (56.0%)
+  Cluster 4: 57 documentos (40.4%)
+  Cluster 1: 3 documentos (2.1%)
+

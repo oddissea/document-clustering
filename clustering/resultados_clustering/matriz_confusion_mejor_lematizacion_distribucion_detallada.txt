@@ -1,0 +1,29 @@
+Categoría 'comp.sys.ibm.pc.hardware':
+  Cluster 0: 59 documentos (47.6%)
+  Cluster 3: 46 documentos (37.1%)
+  Cluster 6: 13 documentos (10.5%)
+
+Categoría 'comp.sys.mac.hardware':
+  Cluster 3: 84 documentos (57.5%)
+  Cluster 1: 56 documentos (38.4%)
+  Cluster 4: 4 documentos (2.7%)
+
+Categoría 'rec.sport.hockey':
+  Cluster 3: 28 documentos (56.0%)
+  Cluster 1: 22 documentos (44.0%)
+
+Categoría 'sci.electronics':
+  Cluster 3: 88 documentos (41.7%)
+  Cluster 1: 68 documentos (32.2%)
+  Cluster 4: 49 documentos (23.2%)
+
+Categoría 'talk.politics.guns':
+  Cluster 6: 41 documentos (29.1%)
+  Cluster 4: 31 documentos (22.0%)
+  Cluster 0: 26 documentos (18.4%)
+
+Categoría 'talk.politics.mideast':
+  Cluster 6: 39 documentos (54.2%)
+  Cluster 0: 24 documentos (33.3%)
+  Cluster 3: 7 documentos (9.7%)
+

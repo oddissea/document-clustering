@@ -1,0 +1,10 @@
+Categoría 'rec.autos':
+  Cluster 2: 34 documentos (55.7%)
+  Cluster 6: 25 documentos (41.0%)
+  Cluster 1: 2 documentos (3.3%)
+
+Categoría 'talk.politics.mideast':
+  Cluster 6: 38 documentos (52.8%)
+  Cluster 2: 29 documentos (40.3%)
+  Cluster 5: 4 documentos (5.6%)
+

@@ -1,0 +1,20 @@
+Máximo ARI:
+  Representación: Media
+  Algoritmo: Jerárquico
+  Valor: 0.1191
+
+Máximo BCubed Precision:
+  Representación: TF-IDF
+  Algoritmo: K-means
+  Valor: 0.3039
+
+Máximo BCubed Recall:
+  Representación: TF
+  Algoritmo: K-means
+  Valor: 0.9550
+
+Máximo BCubed F-score:
+  Representación: TF-IDF
+  Algoritmo: Jerárquico
+  Valor: 0.3970
+

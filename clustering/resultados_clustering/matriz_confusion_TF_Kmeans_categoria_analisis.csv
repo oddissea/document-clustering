@@ -1,0 +1,8 @@
+Categoría,Cluster principal,Porcentaje,Dispersión
+comp.sys.ibm.pc.hardware,3,91.93548387096774,0.08064516129032262
+comp.sys.mac.hardware,3,100.0,0.0
+rec.autos,3,96.72131147540983,0.032786885245901676
+rec.sport.hockey,3,100.0,0.0
+sci.electronics,3,100.0,0.0
+talk.politics.guns,3,98.58156028368793,0.014184397163120588
+talk.politics.mideast,3,93.05555555555556,0.06944444444444442

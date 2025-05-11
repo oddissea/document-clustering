@@ -1,0 +1,6 @@
+Representación: TF-IDF
+Algoritmo: Jerárquico
+BCubed F-score: 0.3970
+BCubed Precision: 0.2906
+BCubed Recall: 0.6263
+ARI: 0.0901
